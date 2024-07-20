@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DataStructures/Stack/LinkStack",
-      "program": "d:/DataStructures/Stack/LinkStack/build/Debug/outDebug",
+      "cwd": "d:/DataStructures/Tree",
+      "program": "d:/DataStructures/Tree/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

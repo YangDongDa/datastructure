@@ -23,8 +23,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DataStructures/Queue/SqQueue",
-      "program": "d:/DataStructures/Queue/SqQueue/build/Debug/outDebug",
+      "cwd": "d:/DataStructures/Tree",
+      "program": "d:/DataStructures/Tree/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "C:/msys64/mingw64/bin/gdb.exe",
       "setupCommands": [
