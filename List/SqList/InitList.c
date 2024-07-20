@@ -4,6 +4,6 @@
   }
     void InitList1(SeqList *L){
     L->data=(ElemType *)malloc(sizeof(ElemType)*InitSize);
-    L->length=0;  
+    L->length=0;  //你好
     L->maxsize=InitSize;
   }
