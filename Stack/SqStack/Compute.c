@@ -1,4 +1,4 @@
-#include "SqSatckHead.h"
+#include "SqSatckHead.h"//计算
 int Compute(int a, int b, char op){
     switch (op)
     {
